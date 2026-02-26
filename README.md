@@ -5,7 +5,7 @@
 Los datos de este proyecto están alojados en Google Sheets para facilitar su visualización y edición colaborativa.
 
 ### 🔗 Acceso a los datos:
-[Haz clic aquí para ver la hoja de cálculo](https://docs.google.com/spreadsheets/d/1QNO9kpVoS_FowOy9S1YXV5fJ-IYXJswN/edit?usp=drive_link&ouid=104669285906035319765&rtpof=true&sd=true)
+[Haz clic aquí para ver la hoja de cálculo](https://docs.google.com/spreadsheets/d/1MtolYHRKBtReXPtxajD_Lg8OHgttBUWT/edit?usp=drive_link&ouid=104669285906035319765&rtpof=true&sd=true)
 
 ## 📋 Estructura del proyecto
 
