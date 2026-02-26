@@ -27,12 +27,12 @@ Convertir datos en decisiones: El objetivo final no es tener una hoja de cálcul
 Comunicar con impacto: Aprender a crear visualizaciones claras y un informe ejecutivo que cualquier persona, sin importar su conocimiento técnico, pueda entender y usar para tomar decisiones estratégicas.
 
 En esencia, el proyecto busca formar a un analista capaz de navegar todo el ciclo de vida del dato: desde que llega en bruto y desordenado, hasta que se convierte en una historia clara que impulsa el negocio.
-## 📅 Próximos pasos
+## 📅 En el documento encontraras:
 
 - [ ] Explorar datos iniciales
-- [ ] Crear tablas dinámicas
-- [ ] Generar gráficos
-- [ ] Documentar hallazgos
+- [ ] Tablas dinámicas
+- [ ] Gráficos
+- [ ] Hallazgos documentados
 
 ## 👩‍💻 Autor
 
