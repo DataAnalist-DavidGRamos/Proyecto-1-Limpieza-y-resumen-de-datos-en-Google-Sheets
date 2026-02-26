@@ -34,6 +34,6 @@ En esencia, el proyecto busca formar a un analista capaz de navegar todo el cicl
 - [ ] Generar gráficos
 - [ ] Documentar hallazgos
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
-Tu Nombre - https://www.linkedin.com/in/david-g-ramos/
+David Ramos https://www.linkedin.com/in/david-g-ramos/
